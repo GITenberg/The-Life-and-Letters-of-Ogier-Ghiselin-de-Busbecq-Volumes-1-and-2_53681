@@ -1,0 +1,45 @@
+_repo: The-Life-and-Letters-of-Ogier-Ghiselin-de-Busbecq-Volumes-1-and-2_53681
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Busbecq, Ogier Ghislain de
+    aliases:
+    - Busbequs, Augerus Gislenus
+    - Bousbecq, Ogier Ghislain de
+    - Bousebecque, Ogier Ghislain de
+    - Busbequius, Augerius Gislenius
+    - De Busbecq, Ogier Ghislain
+    - Busbeck, Ogier Ghislain de
+    - Busbequius, A. G. (Augerius Gislenius)
+    birthdate: 1522
+    deathdate: 1592
+    gutenberg_agent_id: '47467'
+    url: http://www.gutenberg.org/2009/agents/47467
+  editors:
+  - agent_name: Daniell, F. H. Blackburne (Francis Henry Blackburne)
+    alias: Daniell, Francis Henry Blackburne
+    birthdate: 1845
+    deathdate: 1921
+    gutenberg_agent_id: '47468'
+    url: http://www.gutenberg.org/2009/agents/47468
+  - agent_name: Forster, Charles Thornton
+    alias: Forster, Ch. Th. (Charles Thornton)
+    birthdate: 1836
+    deathdate: 1891
+    gutenberg_agent_id: '47469'
+    url: http://www.gutenberg.org/2009/agents/47469
+description: ''
+gutenberg_issued: '2016-12-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53681'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D'
+- !lcsh 'Busbecq, Ogier Ghislain de, 1522-1592'
+- GITenberg
+title: The Life and Letters of Ogier Ghiselin de Busbecq, Volumes 1 and 2
+url: http://www.gutenberg.org/ebooks/53681
